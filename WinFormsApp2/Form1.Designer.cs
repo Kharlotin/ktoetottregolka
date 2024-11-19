@@ -70,7 +70,7 @@
             // lblResult
             // 
             lblResult.BackColor = Color.GhostWhite;
-            lblResult.Font = new Font("Comic Sans MS", 18F, FontStyle.Regular, GraphicsUnit.Point, 204);
+            lblResult.Font = new Font("Comic Sans MS", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
             lblResult.Location = new Point(450, 463);
             lblResult.Name = "lblResult";
             lblResult.Size = new Size(500, 58);
