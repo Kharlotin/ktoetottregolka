@@ -1,0 +1,17 @@
+E:\Домашка\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+E:\Домашка\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+E:\Домашка\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+E:\Домашка\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+E:\Домашка\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+E:\Домашка\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
